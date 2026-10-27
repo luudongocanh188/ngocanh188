@@ -1,0 +1,5 @@
+{
+    "name": "student/lab8-email",
+    "description": "Lab 8 - Gui email bang PHP va PHPMailer",
+    "require": { "php": ">=8.2", "phpmailer/phpmailer": "^7.0" }
+}
